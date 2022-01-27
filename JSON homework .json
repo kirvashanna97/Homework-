@@ -1,0 +1,34 @@
+{ "Homework" : [
+    { "Pen" :[
+    {
+      "Name"  : "Parker Jottes" ,
+      "Color" : "Blue" ,
+      "Body color" : "Silver" ,
+      "Price" : 716
+    },
+    {
+      "Name"  : "Parker Vector" ,
+      "Color" : "Black" ,
+      "Body color" : "Green"
+      "Price" : 437
+    },
+    {
+      "Name"  : "Caron d'92Ache" ,
+      "Color" : "Blue" ,
+      "Body color" : "Black" ,
+      "Price" : 596
+    },
+    {
+      "Name"  : "Pelican Classic" ,
+      "Color" : "Black" ,
+      "Body color" : "White" ,
+      "Price" : 3240
+    },
+    {
+      "Name" : "Axent Forum" ,
+      "Color" : "Red" ,
+      "Body color" : "Red" ,
+      "Price" : 20
+    }
+ ]}
+}

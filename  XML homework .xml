@@ -1,0 +1,31 @@
+<Homework>
+       <Jacket>
+               <Color> Black </Color>
+               <Size>     S     </Size>
+               <Season> Spring </Season>
+               <Price> 2000 </Price>
+       </Jacket>
+       <Jacket>
+                <Color> Yellow </Color>
+               <Size>     M    </Size>
+               <Season> Winter </Season>
+               <Price> 2500</Price>
+       </Jacket>
+       <Jacket>
+               <Color> Green </Color>
+               <Size>     XS    </Size>
+               <Season> Autumn  </Season>
+               <Price> 1800 </Price>
+       </Jacket>
+       <Jacket>
+               <Color> Red </Color>
+               <Size>     L    </Size>
+               <Season> Winter </Season>
+               <Price> 3000 </Price>
+       </Jacket>
+       <Jacket>
+               <Color> Blue </Color>
+               <Size>     S     </Size>
+               <Season> Spring </Season>
+               <Price> 1500 </Price>
+       </Jacket>}
